@@ -1,0 +1,9 @@
+sale_id,sale_date,customer_id,customer_name,city,product_id,product_name,category,quantity,price,revenue
+1001,2026-10-01,C001,John Smith,Johannesburg,P001,Laptop,Electronics,2,8500,17000
+1002,2026-10-02,C002,Sarah Jones,Pretoria,P003,Monitor,Electronics,1,2200,2200
+1003,2026-10-03,C001,John Smith,Johannesburg,P002,Keyboard,Accessories,3,450,1350
+1004,2026-10-04,C003,David Brown,Soweto,P004,Mouse,Accessories,2,180,360
+1005,2026-10-05,C004,Emily Adams,Randburg,P005,Printer,Office Equipment,1,3200,3200
+1006,2026-10-06,C005,Michael Dube,Midrand,P001,Laptop,Electronics,1,8500,8500
+1007,2026-10-07,C002,Sarah Jones,Pretoria,P002,Keyboard,Accessories,2,450,900
+1008,2026-10-08,C003,David Brown,Soweto,P003,Monitor,Electronics,1,2200,2200
